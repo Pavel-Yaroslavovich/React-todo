@@ -1,0 +1,72 @@
+/* ========Main============ */
+
+.conteiner-main {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.main-int {
+  background-color: #f7e6e6;
+}
+
+.indent-button {
+  display: inline-block;
+  margin-right: 6px;
+  margin-top: 20px;
+}
+
+.indent-button:last-of-type {
+  margin-right: 0px;
+}
+
+.button {
+  text-decoration: none;
+}
+
+/* ========Add============ */
+
+.add-int {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.conteiner-add {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.button-add {
+  margin-top: 15px;
+}
+
+/* ========postsList============ */
+
+.element-postsList {
+	max-width: 350px;
+	margin: 0 auto;
+	text-align: left;
+	margin-top: 20px;
+}
+
+.element-list {
+	margin-bottom: 10px;
+}
+
+.element-list:last-of-type {
+	margin-bottom: 0px;
+}
+
+.edit {
+	cursor: pointer;
+	margin-left: 15px;
+	margin-right: 5px;
+}
+
+.edit:hover {
+	opacity: .5;
+}
+
+.strikethrough {
+	text-decoration: line-through;
+	color: red;
+}
