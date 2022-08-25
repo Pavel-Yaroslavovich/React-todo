@@ -9,7 +9,6 @@ export default function ControlledCheckbox({ onCheck, id, value }) {
 		onCheck(id)
 	};
 
-
 	return (
 		<Checkbox
 			checked={checked}
